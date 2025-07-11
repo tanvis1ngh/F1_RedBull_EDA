@@ -1,0 +1,9 @@
+# macOS system files
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files you don’t want to track
+data/*.csv
+archive/*.csv
