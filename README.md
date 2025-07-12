@@ -19,4 +19,4 @@ This project explores the performance of the Red Bull Racing Formula 1 team usin
 - Jupyter Notebook
 - Git & GitHub for version control
 
-
+---
